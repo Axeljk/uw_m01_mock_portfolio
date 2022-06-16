@@ -49,7 +49,7 @@ section {
 	background-color: #ccddee;
 	color: #dddddd;
 	margin: 2em 0px 0px 0px;
-	padding: 35px 0px;
+	padding: 0px 0px 35px 0px;
 	border-top: 2px solid #778899;
 	color: #334455;
 }
@@ -60,7 +60,7 @@ h2 {
 form {
 	margin: 0px auto;
 	padding: 15px 0px;
-	width: 40%;
+	width: 600px;
 	border: 3px solid #778899;
 	border-radius: 10px;
 	text-align: center;
@@ -70,6 +70,12 @@ label {
 }
 .input-text {
 	width: 600px;
+}
+.input-submit {
+	padding: 15px 40px;
+	background-color: #776655;
+	border: 0px;
+	margin: 3px;
 }
 h3 {
 	margin: 0px;
